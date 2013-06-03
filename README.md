@@ -17,6 +17,7 @@ ffmpeg -i INPUT.mov -qscale 0 -filter:v "crop=768:1024:(in_w-768)/2:(in_h-1024)/
 
 
 
+
 The command assumes the overlay and the INPUT.mov files are both in the same directory. Two TMP files are created - you can delete those. The quality settings need to be juggled with and are different across the many versions of ffmpeg you may uncover - see ffmpeg's manual
 
 
