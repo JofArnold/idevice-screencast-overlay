@@ -1,6 +1,6 @@
 # Purpose
 
-Enables professional-looking demo videos and screencasts [like this](http://www.youtube.com/watch?v=nqPxq7RhDIU) using just Mountain Lion's in-built QuickTime and ffmpeg.
+Enables professional-looking demo videos and screencasts [like this](http://www.youtube.com/watch?v=nqPxq7RhDIU) using just Mountain Lion's in-built QuickTime and ffmpeg. (Note: in the demo you can only just about see the white background - this works for me as I usually use them in white-backgrounded Keynote slides - if you want it much bigger, just tweak the crop)
 
 # Instructions
 
